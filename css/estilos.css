@@ -1,0 +1,107 @@
+
+
+#contenedor
+{
+  width: 95%;
+  background-color: gray;
+}
+
+#texto
+{
+  background-color: orange;
+  padding: 1px;
+}
+#banner
+{
+  width: 100%;
+  height: auto;
+}
+
+#navbar
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+
+main
+{
+  display: flex;
+  flex-direction: row;
+}
+#izquierda
+{
+  width: 27%;
+  background-color: beige;
+  padding-left: 6px;
+}
+
+#centro
+{
+  width: 46%;
+  background-color: white;
+
+  display: flex;
+
+  flex-wrap: wrap;
+}
+
+#derecha
+{
+  width:27%;
+  background-color: beige;
+  padding-left: 6px;
+}
+
+
+.textnav
+{
+  display: inline;
+}
+
+.logo
+{
+  width: 30px;
+}
+
+
+.figureimg
+{
+    width: 100%;
+}
+
+figcaption
+{
+  background-color: yellow;
+  text-align: center;
+}
+footer
+{
+  text-align: center;
+}
+
+figure
+{
+  width: 45%;
+}
+
+h1
+{
+  text-align: center;
+  color: peru;
+  font-size: 40px;
+
+}
+nav
+{
+  background-color: lightgreen;
+
+  display: flex;
+  flex-direction: row;
+  padding-top: 5px;
+}
+a
+{
+    margin-right: 10px;
+    margin-left: 10px;
+}
